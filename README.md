@@ -24,8 +24,9 @@ Throughout my career, I've had the opportunity to work on diverse projects, from
 Below is a selection of projects that demonstrate my capability to tackle complex data science challenges:
 
 1. **Market Basket Analysis Using Association Rule Learning**: An exploration into retail data to uncover patterns and relationships between different products purchased together.
-4. **NFL Touchdown Prediction Model**: Applying R in sports analytics, specifically for predicting NFL players' performance regarding touchdowns using Random Forest.
-5. **Air Quality Analysis and Prediction**: Analyzing air quality data to identify trends, patterns, and predictors of air pollution levels using machine learning and tidyverse.
+2. **NFL Touchdown Prediction Model**: Applying R in sports analytics, specifically for predicting NFL players' performance regarding touchdowns using Random Forest.
+3. **Air Quality Analysis and Prediction**: Analyzing air quality data to identify trends, patterns, and predictors of air pollution levels using machine learning and tidyverse.
+4. **NBA Player Performance - Points**: Using Gradient Boosting Regressor to predict the player's performance in a given game with related performance stats.
 
 ## How to Navigate This Repository 🧭
 
