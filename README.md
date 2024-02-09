@@ -36,8 +36,8 @@ Below is a selection of projects that demonstrate my capability to tackle comple
 Each project folder contains:
 - A detailed project description in the README.md file.
 - Jupyter notebooks (.ipynb) with code, analysis, and model development.
-- Datasets used in the projects (where applicable).
 - A requirements.txt file listing the necessary libraries to run the notebooks.
+**dataset is not included in the repository.
 
 
 Thank you for visiting my portfolio. Dive into the projects to explore my work and the impact of data science in various sectors!
