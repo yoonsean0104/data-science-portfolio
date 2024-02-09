@@ -37,7 +37,7 @@ Each project folder contains:
 - A detailed project description in the README.md file.
 - Jupyter notebooks (.ipynb) with code, analysis, and model development.
 - A requirements.txt file listing the necessary libraries to run the notebooks.
-**dataset is not included in the repository.
+- Dataset is not included in the repository.
 
 
 Thank you for visiting my portfolio. Dive into the projects to explore my work and the impact of data science in various sectors!
