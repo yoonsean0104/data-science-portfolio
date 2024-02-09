@@ -6,7 +6,8 @@ Welcome to my Data Science Portfolio! I'm Sean, a passionate and experienced dat
 
 ## About Me 🙋‍♂️
 
-With a background in computer science and a profound passion for data analytics, I have honed my skills in data manipulation, statistical analysis, machine learning, and predictive modeling. My journey in the data science field has been marked by a relentless pursuit of knowledge and the application of data-driven insights to solve real-world problems.
+
+Graduated from the University of Michigan, Ann Arbor with a background in Data Science and a profound passion for data analytics, I have honed my skills in data manipulation, statistical analysis, machine learning, and predictive modeling. My journey in the data science field has been marked by a relentless pursuit of knowledge and the application of data-driven insights to solve real-world problems.
 
 Throughout my career, I've had the opportunity to work on diverse projects, from developing advanced analytics models to optimize business operations, to deploying machine learning algorithms that predict customer behavior. My approach is always guided by a deep understanding of the data at hand and a commitment to ethical and effective problem-solving.
 
