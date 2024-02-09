@@ -36,9 +36,6 @@ Each project folder contains:
 - Datasets used in the projects (where applicable).
 - A requirements.txt file listing the necessary libraries to run the notebooks.
 
-## Connect with Me 🌐
-
-I'm always open to collaborating on projects, sharing knowledge, and expanding my professional network. Feel free to connect with me on [LinkedIn](#) (insert your LinkedIn profile link).
 
 Thank you for visiting my portfolio. Dive into the projects to explore my work and the impact of data science in various sectors!
 
