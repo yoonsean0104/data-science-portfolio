@@ -24,8 +24,6 @@ Throughout my career, I've had the opportunity to work on diverse projects, from
 Below is a selection of projects that demonstrate my capability to tackle complex data science challenges:
 
 1. **Market Basket Analysis Using Association Rule Learning**: An exploration into retail data to uncover patterns and relationships between different products purchased together.
-2. **Customer Churn Prediction Model**: Utilizing machine learning to predict customer churn, enabling proactive customer retention strategies.
-3. **Time Series Forecasting for Stock Prices**: Implementing ARIMA and LSTM models to forecast stock prices, assisting in investment decision-making.
 4. **NFL Touchdown Prediction Model**: Applying R in sports analytics, specifically for predicting NFL players' performance regarding touchdowns using Random Forest.
 5. **Air Quality Analysis and Prediction**: Analyzing air quality data to identify trends, patterns, and predictors of air pollution levels using machine learning and tidyverse.
 
