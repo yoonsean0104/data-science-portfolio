@@ -1,6 +1,6 @@
 
 
-# Data Science Portfolio 📊💡🔍
+# Data Science Portfolio 
 
 Welcome to my Data Science Portfolio! I'm Sean, a passionate and experienced data scientist with over 5 years of industry experience, dedicated to leveraging data to drive innovative solutions and informed decision-making. This repository serves as a comprehensive showcase of my journey and expertise in the realm of Data Science, featuring projects that span various domains and technical challenges.
 
