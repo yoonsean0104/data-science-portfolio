@@ -28,6 +28,8 @@ Below is a selection of projects that demonstrate my capability to tackle comple
 3. **Natural Language Processing for Sentiment Analysis**: Applying NLP techniques to analyze customer reviews and gauge sentiment, providing valuable insights into customer satisfaction.
 4. **Time Series Forecasting for Stock Prices**: Implementing ARIMA and LSTM models to forecast stock prices, assisting in investment decision-making.
 5. **Image Recognition with Convolutional Neural Networks**: Developing a CNN model to classify and recognize images, showcasing the power of deep learning in visual data analysis.
+6. **NFL Touchdown Prediction Model**: Applying R in sports analytics, specifically for predicting NFL players' performance regarding touchdowns using Random Forest.
+7. **Air Quality Analysis and Prediction**: Analyzing air quality data to identify trends, patterns, and predictors of air pollution levels using machine learning and tidyverse.
 
 ## How to Navigate This Repository 🧭
 
